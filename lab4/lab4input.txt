@@ -1,0 +1,16 @@
+﻿Banana 35
+Carrots 60
+Potato 70
+Grapes 120
+Butter 210
+Detergent 200 2.5
+Soap 35 0.4
+Notebook 40 0.2
+End
+Grapes 0.5
+Potato 3.0
+Detergent 2
+Soap 5
+Butter 0.5
+Carrots 1.5
+Checkout

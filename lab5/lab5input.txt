@@ -1,0 +1,9 @@
+﻿FlightSimple 10
+R R R U U R D L D D
+RandomWalk 11
+R R R U U R D L D D R
+RandomWalk 20
+R R R U U R D L D U R R U U U U U U U U
+FlightSimple 20
+R R U R U R R U D D L D L L L L L L L L    
+End
